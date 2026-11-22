@@ -1,0 +1,11 @@
+{
+  "appId": "com.lipe.tostao",
+  "appName": "Tostão",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  },
+  "android": {
+    "backgroundColor": "#F5F3EC"
+  }
+}
